@@ -6,6 +6,6 @@
 - Includes a dark and light mode.
 - Developed with mobile-first approach. 
 
-Check out their YouTube Channel for more projects like this: [Bedimcode](https://www.youtube.com/c/Bedimcode)
+[Bedimcode on YouTube](https://www.youtube.com/c/Bedimcode)
 
 ![preview img](/preview.png)
